@@ -4,8 +4,8 @@
 IMG_URL="https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2024-03-15/2024-03-15-raspios-bookworm-arm64-lite.img.xz"
 
 # 다운로드할 파일명
-IMG_XZ="raspios-bookworm-armhf-lite.img.xz"
-IMG="raspios-bookworm-armhf-lite.img"
+IMG_XZ="raspios-bookworm-arm64-lite.img.xz"
+IMG="raspios-bookworm-arm64-lite.img"
 
 # nvme0n1 디스크 경로
 DISK="/dev/nvme0n1"
