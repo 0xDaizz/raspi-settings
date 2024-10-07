@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# 다운로드 URL
-IMG_URL="https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2024-03-15/2024-03-15-raspios-bookworm-armhf-lite.img.xz"
+# 다운로드 URL (64비트로 변경)
+IMG_URL="https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2024-03-15/2024-03-15-raspios-bookworm-arm64-lite.img.xz"
 
 # 다운로드할 파일명
 IMG_XZ="raspios-bookworm-armhf-lite.img.xz"
